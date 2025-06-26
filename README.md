@@ -1,4 +1,4 @@
-# 🛡️ ExamGuardian: Cloud-Based Monitoring & Reporting Tool
+# 🛡🔐 ExamGuardian: Cloud-Based Monitoring & Reporting Tool
 
 **ExamGuardian** is a cloud-integrated monitoring tool built in Python to support remote exam invigilation and desktop activity tracking. It captures **keystrokes**, **screenshots**, **audio**, and **system/network details**, and sends reports via email using **Mailtrap SMTP (Cloud)**.
 
