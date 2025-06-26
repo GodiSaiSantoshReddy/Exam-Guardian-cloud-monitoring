@@ -1,0 +1,5 @@
+pynput
+pillow
+sounddevice
+scipy
+scikit-learn
